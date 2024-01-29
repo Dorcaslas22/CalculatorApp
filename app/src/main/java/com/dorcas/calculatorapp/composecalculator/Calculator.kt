@@ -43,7 +43,6 @@ fun Calculator(
                 fontSize = 30.sp,
                 fontWeight = FontWeight.Normal,
                 color = Color.Gray,
-                softWrap = true,
                 maxLines = 2
             )
             Row(
